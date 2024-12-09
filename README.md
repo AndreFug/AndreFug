@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I am a last year automation engineer student at NTNU Aalesund
+
 <!--
 **AndreFug/AndreFug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

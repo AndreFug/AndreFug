@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Currently 4th year engineering student @ NTNU School of Entrepreneurship Bachelor of engineering within Automation and Intelligent Systems from NTNU Aalesund
+### Currently 4th year engineering student @ NTNU School of Entrepreneurship | Bachelor of engineering within Automation and Intelligent Systems from NTNU Aalesund
   - 💬 Ask me about communication within automation and IoT
 
 <!--

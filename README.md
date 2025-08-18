@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I am a last year automation engineer student at NTNU Aalesund
-🔭 I’m currently working on my bachelor's thesis. I am developing a cleaning robot for industrial solar farms at sea.
+### Currently 4th year engineering student @ NTNU School of Entrepreneurship
+  - 💬 Ask me about communication within automation and IoT
 
 <!--
 **AndreFug/AndreFug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

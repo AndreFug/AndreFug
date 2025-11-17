@@ -13,9 +13,6 @@ Currently 4th year engineering student @ NTNU School of Entrepreneurship | Bache
 ![](https://nirzak-streak-stats.vercel.app/?user=andrefug&theme=dark&hide_border=false)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andrefug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
 

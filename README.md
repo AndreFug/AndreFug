@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently building my FinTech startup <br>
-4th year engineering student @ NTNU School of Entrepreneurship 
+4th year engineering student @ NTNU School of Entrepreneurship <br>
 Bachelor in Automation and Intelligent Systems from NTNU Aalesund
 
 
